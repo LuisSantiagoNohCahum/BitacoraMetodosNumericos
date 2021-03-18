@@ -71,7 +71,7 @@ public class BitacoraMetodosNumericos {
 
     }
 
-    static int factorial(int n) {
+    static double factorial(int n) {
         if (n < 0) {
             return 0;
         } else {
